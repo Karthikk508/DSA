@@ -1,0 +1,126 @@
+
+void findmin(int size, int inputArr[][10], int &minIndexRow, int &minIndexCol) {
+    int min = inputArr[0][1];
+    int row = 0, col = 0;
+    for(int i=1; i<size-1; i++)
+    {
+    	if(inputArr[0][i]<min)
+    	{
+    		min = inputArr[0][i];
+    		row = 0;
+    		col = i;
+		}
+		if(inputArr[size-1][i]<min)
+		{
+			min = inputArr[size-1][i];
+			row = size-1;
+			col = i;
+		}
+	}
+	
+	for(int i=1; i<size-1; i++)
+    {
+    	if(inputArr[i][0]<min)
+    	{
+    		min = inputArr[0][i];
+    		row = 0;
+    		col = i;
+		}
+		if(inputArr[i][size-1]<min)
+		{
+			min = inputArr[i][size-1];
+			row = i;
+			col = size-1;
+		}
+	}
+	//printf("%d %d",row,col);
+}
+
+void rotateClockwise(int &i, int &j, int size) {
+    if (j == 0) {
+        i--;
+        if (i == 0)
+            j++;
+    } else if (i == 0) {
+        j++;
+        if (j == size - 1)
+            i++;
+    } else if (i == size - 1) {
+        j--;
+        if (j == 0)
+            i--;
+    } else if (j == size - 1) {
+        i++;
+        if (i == size - 1)
+            j--;
+    }
+}
+
+void rotateAnticlockwise(int &i1, int &i2, int size) {
+    if (i1 == 0) {
+        i2--;
+        if (i2 == 0)
+            i1++;
+    } else if (i2 == 0) {
+        i1++;
+        if (i1 == size - 1)
+            i2++;
+    } else if (i1 == size - 1) {
+        i2++;
+        if (i2 == size - 1)
+            i1--;
+    } else if (i2 == size - 1) {
+        i1--;
+        if (i1 == 0)
+            i2--;
+    }
+}
+
+void admindroidMain(int size, int inputArr[][10]) {
+	
+    int minIndexRow, minIndexCol;
+    findmin(size, inputArr, minIndexRow, minIndexCol);
+
+    int a = minIndexRow, b = minIndexCol;
+    int n = ((size - 2) * 4) / 2;
+
+    int i = a, j = b;
+    int count1 = n;
+    int i1 = 0, i2 = 0, min1 = inputArr[a][b], min2 = 0;
+
+    while (count1 > 0) {
+        int k = 0;
+        while (k < 2) {
+            rotateClockwise(i, j, size);
+
+            if (i1 == 0 && i2 == 0) {
+                i1 = i;
+                i2 = j;
+                min2 = inputArr[i1][i2];
+            }
+
+            k++;
+        }
+
+        int temp = inputArr[i][j];
+        inputArr[i][j] = min1;
+        min1 = temp;
+        count1--;
+    }
+
+    int count2 = n;
+
+    while (count2 > 0) {
+        int k = 0;
+        while (k < 2) {
+            rotateAnticlockwise(i1, i2, size);
+
+            k++;
+        }
+
+        int temp = inputArr[i1][i2];
+        inputArr[i1][i2] = min2;
+        min2 = temp;
+        count2--;
+    }
+}

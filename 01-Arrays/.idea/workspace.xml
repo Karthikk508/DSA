@@ -4,7 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4dc7718-8df5-447c-b86d-0bf136371a94" name="Changes" comment="init commit" />
+    <list default="true" id="e4dc7718-8df5-447c-b86d-0bf136371a94" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Area_of_Triangle_3points.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Best_time_to_sell_buy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contains_Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Distribute_candies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dominant_index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Find_Polygon_With_the_Largest_Perimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Find_pivot_element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Find_the_max_cons_ones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hard_Imp/Four_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hard_Imp/Longest_Subarray_With_Zero_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hard_Imp/Merge_All_Overlapping_Intervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hard_Imp/Subarrays_with_XOR_K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hard_Imp/Three_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hard_Imp/Top_k_El_BucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intersection_of_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Length_of_subsequence_Increasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Longest_Subarray_With_Sum_K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Longest_consequtive_sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Majority_Element_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Majority_Elements_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matrix_0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Max_consecutive_ones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Max_product_of_Threenum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium_leetcode/Largest_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Missing_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Move_zeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Move_zeros_toend_of_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pascal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pascal_1_Array_in_TwoDarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pascal_triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Range_addition2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Remove_Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reverse_the_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rotate_Array_by_D_places.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set_matrix_0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Smashing_Stones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Spiral_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Summary_range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Swap_Nums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transpose_of_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Union_of_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UniqueNumberOfOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unique_Number_of_Occurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Xor_Find_non_repeating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,30 +96,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Find_the_max_cons_ones.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Largest_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swap_Nums.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Transpose_of_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UniqueNumberOfOccurrences.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Unique_Number_of_Occurrences.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/kanna/Documents/Programming/Java/DSA&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/kanna/Documents/Programming/Java/IdeaProjects/Arrays/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Area_of_Triangle_3points.executor": "Run",
+    "Application.Find_the_max_cons_ones.executor": "Run",
+    "Application.Largest_number.executor": "Run",
+    "Application.Swap_Nums.executor": "Run",
+    "Application.Transpose_of_Matrix.executor": "Run",
+    "Application.UniqueNumberOfOccurrences.executor": "Run",
+    "Application.Unique_Number_of_Occurrences.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kanna/Documents/Programming/Java/DSA",
+    "onboarding.tips.debug.path": "C:/Users/kanna/Documents/Programming/Java/IdeaProjects/Arrays/src/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JAVA&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Application.Swap_Nums">
+}]]></component>
+  <component name="RunManager" selected="Application.Area_of_Triangle_3points">
+    <configuration name="Area_of_Triangle_3points" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Area_of_Triangle_3points" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Find_the_max_cons_ones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Find_the_max_cons_ones" />
       <module name="Arrays" />
@@ -98,20 +163,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueNumberOfOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UniqueNumberOfOccurrences" />
-      <module name="Arrays" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Area_of_Triangle_3points" />
         <item itemvalue="Application.Swap_Nums" />
         <item itemvalue="Application.Transpose_of_Matrix" />
         <item itemvalue="Application.Largest_number" />
         <item itemvalue="Application.Find_the_max_cons_ones" />
-        <item itemvalue="Application.UniqueNumberOfOccurrences" />
       </list>
     </recent_temporary>
   </component>
