@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73cb2ee1-26c2-40c3-a2af-01aeebdf1056" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2lkUXC2dy6e4XZ44LBpDOW4pVdR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Boundary_traversal.executor": "Run",
+    "Application.Children_sum.executor": "Debug",
+    "Application.Height_of_Tree (1).executor": "Debug",
+    "Application.Height_of_Tree.executor": "Debug",
+    "Application.Inorder.executor": "Run",
+    "Application.Inorder_traversal.executor": "Run",
+    "Application.Invert.executor": "Run",
+    "Application.Main (1).executor": "Debug",
+    "Application.Main (2).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Minimum_depth.executor": "Run",
+    "Application.Postorder_traversal.executor": "Run",
+    "Application.Preorder.executor": "Run",
+    "Application.Preorder_traversal.executor": "Run",
+    "Application.Root_to_leaf.executor": "Run",
+    "Application.Root_to_leafWithSpecific.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.TargetSumToroot (1).executor": "Run",
+    "Application.TargetSumToroot.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Tilt.executor": "Run",
+    "Application.Vertical_traversal (1).executor": "Run",
+    "Application.Vertical_traversal.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kanna/Documents/Programming/Java/DSA/10-OOP"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Tilt">
+    <configuration name="Invert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Easy.Invert" />
+      <module name="12-Tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Minimum_depth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Easy.Minimum_depth" />
+      <module name="12-Tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Root_to_leaf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Easy.Root_to_leaf" />
+      <module name="12-Tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TargetSumToroot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Easy.TargetSumToroot" />
+      <module name="12-Tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tilt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Easy.Tilt" />
+      <module name="12-Tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tilt" />
+        <item itemvalue="Application.Root_to_leaf" />
+        <item itemvalue="Application.Invert" />
+        <item itemvalue="Application.Minimum_depth" />
+        <item itemvalue="Application.TargetSumToroot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73cb2ee1-26c2-40c3-a2af-01aeebdf1056" name="Changes" comment="" />
+      <created>1725723605048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725723605048</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Binary_tree/Medium_Problems/Height_of_Tree.java</url>
+          <line>33</line>
+          <properties class="Medium_Problems.Height_of_Tree" method="maxDepth">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Binary_tree/Traversal/LevelOrder.java</url>
+          <line>18</line>
+          <properties class="Traversal.LevelOrder" method="levelOrder">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Binary_tree/Hard/Root_to_leaf.java</url>
+          <line>22</line>
+          <properties class="Hard.Root_to_leaf" method="rootToLeaf">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Binary_tree/Hard/Children_sum.java</url>
+          <line>25</line>
+          <properties class="Hard.Children_sum" method="check">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Binary_tree/Leetcode/Easy/TargetSumToroot.java</url>
+          <line>33</line>
+          <properties class="Leetcode.Easy.TargetSumToroot" method="find">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Binary_tree/Leetcode/Easy/Minimum_depth.java</url>
+          <line>7</line>
+          <properties class="Leetcode.Easy.Minimum_depth" method="minDepth">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Binary_tree/Leetcode/Easy/Invert.java</url>
+          <line>41</line>
+          <properties class="Leetcode.Easy.Invert" method="invertTree">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Binary_tree/Leetcode/Easy/Tilt.java</url>
+          <line>17</line>
+          <properties class="Leetcode.Easy.Tilt" method="tilt">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

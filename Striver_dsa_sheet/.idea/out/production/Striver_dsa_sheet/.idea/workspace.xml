@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46568b41-5dc1-45ad-afa2-e06b483fafe0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2hoTwvHiXG5pr9UdD8fd0LwMkrM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.All_subseq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atoi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Largest_odd_num.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Longest_substring_without_rep.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Print_all_subseq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rotate_string.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RowWithMax1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Sort_stack.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Two_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Valid_anagram.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kanna/Documents/Programming/Java/DSA/Striver_dsa_sheet&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.SortByFreq">
+    <configuration name="Longest_substring_without_rep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sliding_window.Longest_substring_without_rep" />
+      <module name="Striver_dsa_sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sliding_window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RowWithMax1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_search.TwoDarrays.RowWithMax1" />
+      <module name="Striver_dsa_sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Binary_search.TwoDarrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortByFreq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Medium.SortByFreq" />
+      <module name="Striver_dsa_sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Two_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Two_sum" />
+      <module name="Striver_dsa_sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Valid_anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Valid_anagram" />
+      <module name="Striver_dsa_sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortByFreq" />
+        <item itemvalue="Application.RowWithMax1" />
+        <item itemvalue="Application.Longest_substring_without_rep" />
+        <item itemvalue="Application.Two_sum" />
+        <item itemvalue="Application.Valid_anagram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46568b41-5dc1-45ad-afa2-e06b483fafe0" name="Changes" comment="" />
+      <created>1718259672626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718259672626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Recursion/Sort_stack.java</url>
+          <line>34</line>
+          <properties class="Recursion.Sort_stack" method="sortedInsert">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/String/Largest_odd_num.java</url>
+          <line>18</line>
+          <properties class="String.Largest_odd_num" method="subset">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/String/Rotate_string.java</url>
+          <line>15</line>
+          <properties class="String.Rotate_string" method="rotateString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/String/Valid_anagram.java</url>
+          <line>7</line>
+          <properties class="String.Valid_anagram" method="isAnagram">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Sliding_window/Longest_substring_without_rep.java</url>
+          <line>10</line>
+          <properties class="Sliding_window.Longest_substring_without_rep" method="lengthOfLongestSubstring">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Binary_search/TwoDarrays/RowWithMax1.java</url>
+          <line>12</line>
+          <properties class="Binary_search.TwoDarrays.RowWithMax1" method="rowWithMax1s">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

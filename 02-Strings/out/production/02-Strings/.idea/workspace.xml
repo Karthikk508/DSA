@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4243e24-a864-4931-a534-7c316244a442" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2e3FSpJLNhUzsr2sutisNMCt0xG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AddString_415.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddStrings_415.executor&quot;: &quot;Run&quot;,
+    &quot;Application.And_Bitwise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Compare_version_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Keyboard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Max_char_btw_2same_char.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.NumberOfStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome_string.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RansomNote.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_vowels.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kanna/Documents/Programming/Java/DSA/02-Strings&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ReverseWord3">
+    <configuration name="Keyboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EasyLeetcode.Keyboard" />
+      <module name="02-Strings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EasyLeetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EasyLeetcode.NumberOfStrings" />
+      <module name="02-Strings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EasyLeetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EasyLeetcode.Palindrome2" />
+      <module name="02-Strings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EasyLeetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RansomNote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EasyLeetcode.RansomNote" />
+      <module name="02-Strings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EasyLeetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseWord3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EasyLeetcode.ReverseWord3" />
+      <module name="02-Strings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EasyLeetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReverseWord3" />
+        <item itemvalue="Application.Palindrome2" />
+        <item itemvalue="Application.Keyboard" />
+        <item itemvalue="Application.NumberOfStrings" />
+        <item itemvalue="Application.RansomNote" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4243e24-a864-4931-a534-7c316244a442" name="Changes" comment="" />
+      <created>1711125356642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711125356642</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ValidPalindrome.java</url>
+          <line>9</line>
+          <properties class="ValidPalindrome" method="isPalindrome">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/EasyLeetcode/AddString_415.java</url>
+          <line>12</line>
+          <properties class="EasyLeetcode.AddString_415" method="addStrings">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/EasyLeetcode/RansomNote.java</url>
+          <line>10</line>
+          <properties class="EasyLeetcode.RansomNote" method="canConstruct">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/EasyLeetcode/Keyboard.java</url>
+          <line>36</line>
+          <properties class="EasyLeetcode.Keyboard" method="valid">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/EasyLeetcode/Palindrome2.java</url>
+          <line>10</line>
+          <properties class="EasyLeetcode.Palindrome2" method="validPalindrome">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="s" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

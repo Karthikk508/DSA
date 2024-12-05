@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2be5846a-f29c-4c98-81da-58ad80c608a0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2dRV10sLP4xrPcjqOQ628tho4lA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Binary_string.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Check_if_frequencies_can_be_equal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Circular_tour.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_and_print_element_more_than_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Do_union.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibanocci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibanocci_upto_Nterms_Array.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Find_all_duplicates.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Find_missing_in_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Find_the_string.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generate_parenthesis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Index_of_First_Occurrence_in_String_28.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Index_of_subarray_with_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ip_address_validate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Largest_Number_formed_from_an_Array.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Longest_Palindromic_Substring.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Look_and_say_pattern.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Majority_element_N_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Max_interval_overlap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Plus_one.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Rearrange_array_alt.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Reverse_each_word_inString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_until_space.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Roman_to_integer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sorted_subsequence_of_size3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Substring_without_repeating_char.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Sum_of_two_large_nums.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.The_Celebrity_Problem.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Validate_IP_address.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Window.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Word_break.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10_Find_firstMax_firstMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2_Number_crunching.executor&quot;: &quot;Debug&quot;,
+    &quot;Application._4_Threshold_value.executor&quot;: &quot;Run&quot;,
+    &quot;Application._6_CheckForRotatedNum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application._7_Evaluate_expression.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kanna/Documents/Programming/Java/DSA/10-OOP&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Longest_Palindromic_Substring">
+    <configuration name="Longest_Palindromic_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Longest_Palindromic_Substring" />
+      <module name="Gfg_Zoho" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_10_Find_firstMax_firstMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Round_2._10_Find_firstMax_firstMin" />
+      <module name="Gfg_Zoho" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Round_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_4_Threshold_value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Round_2._4_Threshold_value" />
+      <module name="Gfg_Zoho" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Round_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_6_CheckForRotatedNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Round_2._6_CheckForRotatedNum" />
+      <module name="Gfg_Zoho" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Round_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_7_Evaluate_expression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Round_2._7_Evaluate_expression" />
+      <module name="Gfg_Zoho" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Round_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Longest_Palindromic_Substring" />
+        <item itemvalue="Application._10_Find_firstMax_firstMin" />
+        <item itemvalue="Application._7_Evaluate_expression" />
+        <item itemvalue="Application._6_CheckForRotatedNum" />
+        <item itemvalue="Application._4_Threshold_value" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2be5846a-f29c-4c98-81da-58ad80c608a0" name="Changes" comment="" />
+      <created>1709970659032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709970659032</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Majority_element_N_2.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Index_of_subarray_with_sum.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Find_all_duplicates.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Strings/Reverse_until_space.java</url>
+          <line>11</line>
+          <properties class="Strings.Reverse_until_space" method="reverseWithSpacesIntact">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Arrays/Find_missing_in_array.java</url>
+          <line>15</line>
+          <properties class="Arrays.Find_missing_in_array" method="findMissing">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Strings/Index_of_First_Occurrence_in_String_28.java</url>
+          <line>4</line>
+          <properties class="Strings.Index_of_First_Occurrence_in_String_28" method="maxCharacterDistance">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Arrays/Rearrange_array_alt.java</url>
+          <line>13</line>
+          <properties class="Arrays.Rearrange_array_alt" method="rearrange">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Strings/Check_if_frequencies_can_be_equal.java</url>
+          <line>10</line>
+          <properties class="Strings.Check_if_frequencies_can_be_equal" method="sameFreq">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Arrays/Max_interval_overlap.java</url>
+          <line>14</line>
+          <properties class="Arrays.Max_interval_overlap" method="findMaxGuests">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Strings/Largest_Number_formed_from_an_Array.java</url>
+          <line>12</line>
+          <properties class="Strings.Largest_Number_formed_from_an_Array" method="printLargest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Strings/Longest_Palindromic_Substring.java</url>
+          <line>29</line>
+          <properties class="Strings.Longest_Palindromic_Substring" method="longestPalindrome">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Strings/Reverse_each_word_inString.java</url>
+          <line>24</line>
+          <properties class="Strings.Reverse_each_word_inString" method="reverseWords">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Strings/Sum_of_two_large_nums.java</url>
+          <line>16</line>
+          <properties class="Strings.Sum_of_two_large_nums" method="findSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Pattern/Look_and_say_pattern.java</url>
+          <line>10</line>
+          <properties class="Pattern.Look_and_say_pattern" method="lookAndSay">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Word_break.java</url>
+          <line>18</line>
+          <properties class="Word_break" method="wordBreak">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Round_2/_1_Window.java</url>
+          <line>14</line>
+          <properties class="Round_2._1_Window" method="print">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Round_2/_2_Number_crunching.java</url>
+          <line>5</line>
+          <properties class="Round_2._2_Number_crunching" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Round_2/_6_CheckForRotatedNum.java</url>
+          <line>7</line>
+          <properties class="Round_2._6_CheckForRotatedNum" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Round_2/_7_Evaluate_expression.java</url>
+          <line>11</line>
+          <properties class="Round_2._7_Evaluate_expression" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Round_2/_10_Find_firstMax_firstMin.java</url>
+          <line>14</line>
+          <properties class="Round_2._10_Find_firstMax_firstMin" method="findArr">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

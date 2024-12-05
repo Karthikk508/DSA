@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46568b41-5dc1-45ad-afa2-e06b483fafe0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2hoTwvHiXG5pr9UdD8fd0LwMkrM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.All_subseq.executor": "Run",
+    "Application.Atoi.executor": "Run",
+    "Application.ConvertToBinary.executor": "Run",
+    "Application.DDL.executor": "Run",
+    "Application.L1_Introduction_to_LinkedList (1).executor": "Run",
+    "Application.L1_Introduction_to_LinkedList (2).executor": "Run",
+    "Application.L1_Introduction_to_LinkedList (3).executor": "Run",
+    "Application.L1_Introduction_to_LinkedList.executor": "Run",
+    "Application.Largest_odd_num.executor": "Run",
+    "Application.Longest_substring_without_rep.executor": "Debug",
+    "Application.Palindrome.executor": "Run",
+    "Application.Print_all_subseq.executor": "Run",
+    "Application.Reverse (1).executor": "Run",
+    "Application.Reverse.executor": "Debug",
+    "Application.Rotate_string.executor": "Debug",
+    "Application.RowWithMax1.executor": "Debug",
+    "Application.SortByFreq.executor": "Debug",
+    "Application.Sort_stack.executor": "Debug",
+    "Application.Two_sum.executor": "Run",
+    "Application.Valid_anagram.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kanna/Documents/Programming/Java/DSA/Striver_dsa_sheet"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ConvertToBinary">
+    <configuration name="ConvertToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BitManipulation.Introduction.ConvertToBinary" />
+      <module name="Striver_dsa_sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BitManipulation.Introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DDL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.LinkedList_2D.DDL" />
+      <module name="Striver_dsa_sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.LinkedList_2D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.LinkedList_1D.Problems.Palindrome" />
+      <module name="Striver_dsa_sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.LinkedList_1D.Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.LinkedList_1D.Problems.Reverse" />
+      <module name="Striver_dsa_sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.LinkedList_1D.Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.LinkedList_1D.Problems.Reverse" />
+      <module name="Striver_dsa_sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.LinkedList_1D.Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConvertToBinary" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.Reverse (1)" />
+        <item itemvalue="Application.DDL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46568b41-5dc1-45ad-afa2-e06b483fafe0" name="Changes" comment="" />
+      <created>1718259672626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718259672626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Recursion/Sort_stack.java</url>
+          <line>34</line>
+          <properties class="Recursion.Sort_stack" method="sortedInsert">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/String/Largest_odd_num.java</url>
+          <line>18</line>
+          <properties class="String.Largest_odd_num" method="subset">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/String/Rotate_string.java</url>
+          <line>15</line>
+          <properties class="String.Rotate_string" method="rotateString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/String/Valid_anagram.java</url>
+          <line>7</line>
+          <properties class="String.Valid_anagram" method="isAnagram">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Sliding_window/Longest_substring_without_rep.java</url>
+          <line>10</line>
+          <properties class="Sliding_window.Longest_substring_without_rep" method="lengthOfLongestSubstring">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Binary_search/TwoDarrays/RowWithMax1.java</url>
+          <line>12</line>
+          <properties class="Binary_search.TwoDarrays.RowWithMax1" method="rowWithMax1s">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LinkedList/LinkedList_1D/Problems/Reverse.java</url>
+          <line>59</line>
+          <properties class="LinkedList.LinkedList_1D.Problems.Reverse" method="recRev">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

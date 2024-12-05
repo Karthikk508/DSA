@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c8cf985-3feb-4dbe-92db-840242c3291b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ird005wOLTgcJThQlAcSJ0WtkM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Backtrack.executor": "Run",
+    "Application.Circular_array.executor": "Run",
+    "Application.Climbing_stairs.executor": "Run",
+    "Application.CompareVersion.executor": "Debug",
+    "Application.Count_String.executor": "Run",
+    "Application.Decode_string.executor": "Run",
+    "Application.Delete_string.executor": "Run",
+    "Application.DiagonalSnakePattern.executor": "Debug",
+    "Application.Encrypted_message.executor": "Run",
+    "Application.Group_anagrams.executor": "Debug",
+    "Application.K_Panagrams.executor": "Run",
+    "Application.LC_122Buy_and_Sell_Stock_II.executor": "Debug",
+    "Application.LongestSubstringWrc.executor": "Debug",
+    "Application.Longest_cons_seq.executor": "Run",
+    "Application.Look_and_say.executor": "Run",
+    "Application.Max_Intervals_NMeetings.executor": "Debug",
+    "Application.Maze.executor": "Run",
+    "Application.Merge_Intervals (1).executor": "Debug",
+    "Application.Merge_Intervals (2).executor": "Run",
+    "Application.Merge_Intervals (3).executor": "Run",
+    "Application.Merge_Intervals.executor": "Run",
+    "Application.Move_neg_to_end.executor": "Run",
+    "Application.Move_negative_elements.executor": "Run",
+    "Application.N_Queens.executor": "Run",
+    "Application.Palindrome_partioning.executor": "Debug",
+    "Application.Pattern.executor": "Run",
+    "Application.Permutaion_of_String.executor": "Run",
+    "Application.Permutations.executor": "Run",
+    "Application.Product_of_array_itself.executor": "Run",
+    "Application.ProductofArrayExceptSelf.executor": "Run",
+    "Application.RankOfString.executor": "Run",
+    "Application.RankThePermutations.executor": "Debug",
+    "Application.Rearrange_Array_alternately.executor": "Debug",
+    "Application.Remove_duplicates.executor": "Run",
+    "Application.RestoreIpAddress.executor": "Debug",
+    "Application.ReverseOfOther.executor": "Run",
+    "Application.RotaAte_num_inarr.executor": "Run",
+    "Application.RotateNumbersInArray.executor": "Run",
+    "Application.Set_1.LC_122Buy_and_Sell_Stock_II.executor": "Debug",
+    "Application.Set_7.Solution.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.SortArrayByFreq (1).executor": "Run",
+    "Application.SortArrayByFreq.executor": "Run",
+    "Application.Sort_in_specific_Order.executor": "Run",
+    "Application.SpecialArrayReversal.executor": "Run",
+    "Application.Split_TwoArray.executor": "Run",
+    "Application.SubarrayMatcher.executor": "Run",
+    "Application.SubsetChecker.executor": "Debug",
+    "Application.SubsetSum.executor": "Debug",
+    "Application.SudukoSolver.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TextJustification.executor": "Debug",
+    "Application.Validate_IPaddress.executor": "Run",
+    "Application.WordPattern.executor": "Run",
+    "Application.WordsFromNumbers.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kanna/Documents/Programming/Java/DSA/Zoho_July13"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Sort_in_specific_Order">
+    <configuration name="Count_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set_7.Count_String" />
+      <module name="Zoho_July13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Look_and_say" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set_7.Look_and_say" />
+      <module name="Zoho_July13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Move_neg_to_end" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set_7.Move_neg_to_end" />
+      <module name="Zoho_July13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Product_of_array_itself" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set_7.Product_of_array_itself" />
+      <module name="Zoho_July13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort_in_specific_Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set_7.Sort_in_specific_Order" />
+      <module name="Zoho_July13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sort_in_specific_Order" />
+        <item itemvalue="Application.Product_of_array_itself" />
+        <item itemvalue="Application.Look_and_say" />
+        <item itemvalue="Application.Move_neg_to_end" />
+        <item itemvalue="Application.Count_String" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c8cf985-3feb-4dbe-92db-840242c3291b" name="Changes" comment="" />
+      <created>1720252403122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720252403122</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_2/Encrypted_message.java</url>
+          <line>9</line>
+          <properties class="Set_2.Encrypted_message" method="encrypt">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_3/Group_anagrams.java</url>
+          <line>12</line>
+          <properties class="Set_3.Group_anagrams" method="groupAnagrams">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_3/CompareVersion.java</url>
+          <line>12</line>
+          <properties class="Set_3.CompareVersion" method="compare">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_1/WordsFromNumbers.java</url>
+          <line>13</line>
+          <properties class="Set_1.WordsFromNumbers" method="generate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_5/Max_Intervals_NMeetings.java</url>
+          <line>19</line>
+          <properties class="Set_5.Max_Intervals_NMeetings" method="meetings">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_4/RestoreIpAddress.java</url>
+          <line>5</line>
+          <properties class="Set_4.RestoreIpAddress" method="restoreIpAddresses">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_4/Circular_array.java</url>
+          <line>14</line>
+          <properties class="Set_4.Circular_array" method="find">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_5/WordPattern.java</url>
+          <line>7</line>
+          <properties class="Set_5.WordPattern" method="wordPattern">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_7/SubsetSum.java</url>
+          <line>11</line>
+          <properties class="Set_7.SubsetSum" method="generate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_1/RankThePermutations.java</url>
+          <line>11</line>
+          <properties class="Set_1.RankThePermutations" method="find">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_1/LC_122Buy_and_Sell_Stock_II.java</url>
+          <line>8</line>
+          <properties class="Set_1.LC_122Buy_and_Sell_Stock_II" method="maxProfit">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_5/TextJustification.java</url>
+          <line>15</line>
+          <properties class="Set_5.TextJustification" method="fullJustify">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_5/LongestSubstringWrc.java</url>
+          <line>9</line>
+          <properties class="Set_5.LongestSubstringWrc" method="lengthOfLongestSubstring">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_7/Decode_string.java</url>
+          <line>13</line>
+          <properties class="Set_7.Decode_string" method="decodeString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_7/Move_negative_elements.java</url>
+          <line>6</line>
+          <properties class="Set_7.Move_negative_elements" method="moveNegativesToEnd">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_7/Validate_IPaddress.java</url>
+          <line>12</line>
+          <properties class="Set_7.Validate_IPaddress" method="isValid">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_7/Permutaion_of_String.java</url>
+          <line>16</line>
+          <properties class="Set_7.Permutaion_of_String" method="find">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_7/Merge_array.java</url>
+          <line>27</line>
+          <properties class="Set_7.Solution" method="merge">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_7/Remove_duplicates.java</url>
+          <line>16</line>
+          <properties class="Set_7.Remove_duplicates" method="find">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_7/Rearrange_Array_alternately.java</url>
+          <line>16</line>
+          <properties class="Set_7.Rearrange_Array_alternately" method="rearrange">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_7/Palindrome_partioning.java</url>
+          <line>18</line>
+          <properties class="Set_7.Palindrome_partioning" method="palindrome">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_7/Delete_string.java</url>
+          <line>10</line>
+          <properties class="Set_7.Delete_string" method="printString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_7/K_Panagrams.java</url>
+          <line>18</line>
+          <properties class="Set_7.K_Panagrams" method="find">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_7/Move_neg_to_end.java</url>
+          <line>17</line>
+          <properties class="Set_7.Move_neg_to_end" method="move">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Set_7/Look_and_say.java</url>
+          <line>8</line>
+          <properties class="Set_7.Look_and_say" method="lookandsay">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

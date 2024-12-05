@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8904544-f65e-4c1b-bc04-944f75370258" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2acE3oXvhVxEdsXxE6rBfWWfaz9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Atoi.executor": "Run",
+    "Application.Backtrack.executor": "Run",
+    "Application.Binary_Search.executor": "Debug",
+    "Application.Bubble_sort.executor": "Run",
+    "Application.Change_to_Uppercase.executor": "Run",
+    "Application.Check_for_Valid_parenthesis_recursion.executor": "Debug",
+    "Application.Check_for_valid_parenthesis.executor": "Debug",
+    "Application.Check_sorted_or_not.executor": "Debug",
+    "Application.Combination_sum_1.executor": "Run",
+    "Application.Combination_sum_2.executor": "Debug",
+    "Application.Count_good_numbers.executor": "Run",
+    "Application.Count_zeros.executor": "Run",
+    "Application.DiceThrow.executor": "Debug",
+    "Application.Easy.Main.executor": "Debug",
+    "Application.Easy.Steps_to_reduce_num.executor": "Run",
+    "Application.Easy.Test.executor": "Debug",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibanocci_Num.executor": "Run",
+    "Application.Find.executor": "Run",
+    "Application.First_letter_uppercase.executor": "Run",
+    "Application.First_uppercase.executor": "Run",
+    "Application.GFG.executor": "Run",
+    "Application.Geek_onacci_Number.executor": "Run",
+    "Application.Length_of_string.executor": "Debug",
+    "Application.Main.executor": "Run",
+    "Application.Maze.executor": "Run",
+    "Application.Merge_sort.executor": "Debug",
+    "Application.N_knights.executor": "Run",
+    "Application.N_queens.executor": "Run",
+    "Application.NumberPad.executor": "Debug",
+    "Application.Number_pad_leetcode.executor": "Debug",
+    "Application.Palindrome_partitions.executor": "Run",
+    "Application.Permutations.executor": "Run",
+    "Application.Permutations_with_duplicate.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.Quick_sort.executor": "Run",
+    "Application.Recursion.executor": "Run",
+    "Application.Remove_Consecutive_Characters.executor": "Run",
+    "Application.Remove_duplicate_letters.executor": "Run",
+    "Application.Reverse_number.executor": "Debug",
+    "Application.Sorting.executor": "Run",
+    "Application.Steps_to_reduce_num.executor": "Run",
+    "Application.Stream.executor": "Run",
+    "Application.Subarray.executor": "Run",
+    "Application.Subarray_sum_divby_k.executor": "Run",
+    "Application.Subseqs.executor": "Debug",
+    "Application.Subset2.executor": "Run",
+    "Application.SubsetSum1.executor": "Run",
+    "Application.Subset_1.executor": "Run",
+    "Application.Subset_2_with_duplicates.executor": "Run",
+    "Application.Subset_sum.executor": "Run",
+    "Application.Subsets.executor": "Debug",
+    "Application.Substring.executor": "Debug",
+    "Application.Sudoku_solver.executor": "Debug",
+    "Application.Sum_of_digits.executor": "Debug",
+    "Application.Sum_of_n_natural_nums.executor": "Run",
+    "Application.TUF.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test_2.executor": "Run",
+    "Application.Triangle.executor": "Debug",
+    "Application.Triangle_practice.executor": "Run",
+    "Application.Triangle_sum.executor": "Debug",
+    "Application.WordsFromNumbers.executor": "Run",
+    "Application.function_to_print_upto_num.executor": "Run",
+    "Application.leetcode_Dice_throw.executor": "Debug",
+    "Application.leetcode_Number_pad.executor": "Debug",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kanna/Documents/Programming/Java/DSA/11-DynammicProgramming",
+    "onboarding.tips.debug.path": "C:/Users/kanna/Documents/Programming/Java/IdeaProjects/Recursion/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Subarray">
+    <configuration name="N_knights" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.N_knights" />
+      <module name="Recursion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Subarray.Subarray" />
+      <module name="Recursion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Subarray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubsetSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Striver.SubsetSum1" />
+      <module name="Recursion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Striver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TUF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Striver.TUF" />
+      <module name="Recursion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Striver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Subarray" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.N_knights" />
+        <item itemvalue="Application.TUF" />
+        <item itemvalue="Application.SubsetSum1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8904544-f65e-4c1b-bc04-944f75370258" name="Changes" comment="" />
+      <created>1704609273790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704609273790</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Strings/Length_of_string.java</url>
+          <line>6</line>
+          <properties class="Strings.Length_of_string" method="recLen">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Strings/Stream.java</url>
+          <line>9</line>
+          <properties class="Strings.Stream" method="skip">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Easy/Main.java</url>
+          <line>39</line>
+          <properties class="Easy.Main" method="fun1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/Binary_Search.java</url>
+          <line>12</line>
+          <properties class="Arrays.Binary_Search" method="search">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Sorting/Merge_sort.java</url>
+          <line>63</line>
+          <properties class="Sorting.Merge_sort" method="mergeInPlace">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Strings/Subseqs.java</url>
+          <line>30</line>
+          <properties class="Strings.Subseqs" method="subseqA">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Strings/leetcode_Number_pad.java</url>
+          <line>25</line>
+          <properties class="Strings.leetcode_Number_pad" method="number_list">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Strings/leetcode_Dice_throw.java</url>
+          <line>11</line>
+          <properties class="Strings.leetcode_Dice_throw" method="dice">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Subset/Practice.java</url>
+          <line>11</line>
+          <properties class="Subset.Practice" method="permutation">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Striver/Subset2.java</url>
+          <line>22</line>
+          <properties class="Striver.Subset2" method="subset2">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Leetcode/DiceThrow.java</url>
+          <line>10</line>
+          <properties class="Leetcode.DiceThrow" method="dice">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Backtracking/Sudoku_solver.java</url>
+          <line>27</line>
+          <properties class="Backtracking.Sudoku_solver" method="solve">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Subarray/Subarray.java</url>
+          <line>13</line>
+          <properties class="Subarray.Subarray" method="generateSubArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
