@@ -1,3 +1,4 @@
+
 package VariableLengthArguments;
 
 import java.util.Arrays;
