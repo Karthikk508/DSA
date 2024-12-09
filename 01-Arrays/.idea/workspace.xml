@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4dc7718-8df5-447c-b86d-0bf136371a94" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/VariableLengthArguments/Var_arg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Binary_Search/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Binary_Search/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Binary_Search/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Binary_Search/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Binary_Search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Binary_Search/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +59,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kanna/Documents/Programming/Java/DSA/01-Arrays",
+    "last_opened_file_path": "C:/Users/kanna/Documents/Programming/Java/DSA-Practice",
     "onboarding.tips.debug.path": "C:/Users/kanna/Documents/Programming/Java/IdeaProjects/Arrays/src/Main.java",
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   },
@@ -149,7 +144,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733380352037</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1733485055021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733485055021</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1733485205874</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733485205874</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

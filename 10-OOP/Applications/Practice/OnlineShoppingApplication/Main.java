@@ -1,4 +1,4 @@
-package Practice.OnlineShoppingApplication;
+package Applications.Practice.OnlineShoppingApplication;
 
 import java.util.Scanner;
 

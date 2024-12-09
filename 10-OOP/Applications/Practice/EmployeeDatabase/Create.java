@@ -1,6 +1,4 @@
-package Practice.EmployeeDatabase;
-
-import com.karthik.access.A;
+package Applications.Practice.EmployeeDatabase;
 
 import java.util.ArrayList;
 import java.util.HashMap;

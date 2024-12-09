@@ -1,4 +1,4 @@
-package Practice.EmployeeDatabase;
+package Applications.Practice.EmployeeDatabase;
 
 class Details {
 

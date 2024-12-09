@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc6f538b-de1d-4141-9077-564f36d75059" name="Changes" comment="" />
+    <list default="true" id="bc6f538b-de1d-4141-9077-564f36d75059" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeQuestions/EmployeeDatabase/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeQuestions/EmployeeDatabase/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeQuestions/EmployeeDatabase/application.properties.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-Arrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-Binary_Search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Binary_Search/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/EmployeeDatabase/Create.java" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/Practice/EmployeeDatabase/Create.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/EmployeeDatabase/Details.java" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/Practice/EmployeeDatabase/Details.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/GiftCard/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/Practice/GiftCard/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/GiftCard/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/Practice/GiftCard/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/GiftCard/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/Practice/GiftCard/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/GiftCard/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/Practice/GiftCard/Password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/OnlineShoppingApplication/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/Practice/OnlineShoppingApplication/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/OnlineShoppingApplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/Practice/OnlineShoppingApplication/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/OnlineShoppingApplication/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/Practice/OnlineShoppingApplication/Password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/OnlineShoppingApplication/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/Practice/OnlineShoppingApplication/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/RailwayType2/Details.java" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/Practice/RailwayType2/Details.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/RailwayType2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/Practice/RailwayType2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/RailwayType2/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/Practice/RailwayType2/Utility.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +40,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Karthikk508&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Karthikk508/DSA.git&quot;,
+    &quot;accountId&quot;: &quot;2a032ce3-b298-44c6-8e04-fc7fa02adbf6&quot;
+  }
+}</component>
   <component name="LLMProjectSettings">
     <option name="turned_on" value="false" />
   </component>
@@ -102,6 +139,9 @@
     "Application.com.karthik.access.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "19",
     "kotlin-language-version-configured": "true",

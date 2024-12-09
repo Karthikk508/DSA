@@ -1,4 +1,4 @@
-package Practice.RailwayType2;
+package Applications.Practice.RailwayType2;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

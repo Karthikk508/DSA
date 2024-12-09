@@ -1,4 +1,4 @@
-package Practice.GiftCard;
+package Applications.Practice.GiftCard;
 
 import java.util.ArrayList;
 

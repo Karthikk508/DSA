@@ -1,4 +1,4 @@
-package Practice.RailwayType2;
+package Applications.Practice.RailwayType2;
 
 public class Details {
 

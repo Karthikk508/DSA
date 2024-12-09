@@ -1,6 +1,5 @@
-package Practice.GiftCard;
+package Applications.Practice.GiftCard;
 
-import javax.swing.text.DefaultEditorKit;
 import java.util.ArrayList;
 import java.util.Scanner;
 
